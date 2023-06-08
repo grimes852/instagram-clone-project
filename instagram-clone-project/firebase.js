@@ -3,7 +3,6 @@ import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-import { REACT_APP_APIKEY, REACT_APP_AUTHDOMAIN, REACT_APP_PROJECTID, REACT_APP_STORAGE_BUCKET, REACT_APP_MSGSENDERID, REACT_APP_APPID } from "@env"
 
 
 // Your web app's Firebase configuration
